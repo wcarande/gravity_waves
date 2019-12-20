@@ -5,12 +5,12 @@ The goal of this project is to identify gravity waves in AIM CIPS Rayleigh Albed
 
 The structure of this repo is as follows:
 
-|-- CIPS
-| |-- code
-| | |-- notebooks
-| |-- poster
-| | |-- images
-| |-- references
+|-- CIPS  
+| |-- code  
+| | |-- notebooks  
+| |-- poster  
+| | |-- images  
+| |-- references  
 
 The code/notebooks folder contains processing.ipynb which creates a text file with the dissimilarity and correlation values for each image. raa_plotting.ipynb is the main notebook withdata analysis and model fitting.
 
